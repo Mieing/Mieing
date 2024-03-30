@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mieing&label=Profile%20views&color=0e75b6&style=flat" alt="mieing" /> </p>
 
-- Shadowrocket [Shadowrocket共享帐号](https://github.com/Mieing/Shadowrocket)
+- [Shadowrocket](https://github.com/Mieing/Shadowrocket)
 
-- QuantumultX [QuantumultX](https://github.com/Mieing/Qure)
+- [QuantumultX](https://github.com/Mieing/Qure)
 
 
 <p align="left">
