@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-%40Mie-28a8ea">
   </a> 
   <a href="mailto:miemei797">
-    <img src="https://img.shields.io/badge/Email-%40Mie-orange">
+    <img src="https://img.shields.io/badge/QQ mailbox-%40Mie-orange">
   </a>
 </p>
 
