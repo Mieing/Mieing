@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mieing&label=Profile%20views&color=0e75b6&style=flat" alt="mieing" /> </p>
 <details>
 <summary>:trophy: project</summary>
-- [Shadowrocket](https://github.com/Mieing/Shadowrocket)
+-  [Shadowrocket](https://github.com/Mieing/Shadowrocket)
 
-- [QuantumultX](https://github.com/Mieing/Qure)
+-  [QuantumultX](https://github.com/Mieing/Qure)
 <details>
 
 <p align="left">
