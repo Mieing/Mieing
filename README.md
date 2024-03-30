@@ -3,10 +3,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mieing&label=Profile%20views&color=0e75b6&style=flat" alt="mieing" /> 
   <a href="https://t.me/iOSMie" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea">
+    <img src="https://img.shields.io/badge/Telegram-%40Mie-28a8ea">
   </a> 
   <a href="mailto:miemei797">
-    <img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange">
+    <img src="https://img.shields.io/badge/Email-%40Mie-orange">
   </a>
 </p>
 
