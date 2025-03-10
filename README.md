@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=mieing&show_icons=true&theme=radical" alt="Mieing's GitHub stats">
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=Mieing&locale=en&line_height=33&show_icons=true&hide=prs&theme=&rank_icon=github"/>
